@@ -1,2 +1,2 @@
-# sanke-DIO
-Projeto desenvolvido no Bootcamp de HTML na Digital Inovation One.
+# snake-DIO
+Projeto do famoso jogo da cobrinha, desenvolvido no Bootcamp de HTML na Digital Inovation One.
